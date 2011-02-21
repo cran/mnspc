@@ -1,0 +1,4 @@
+useDynLib(mnspc)
+
+export(hSearch,getARL,kSearch, catData)
+
